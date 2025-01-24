@@ -1,6 +1,7 @@
 # WURxKNMI_WindTurbines Project README.md
 Authors: Michal Bartek, Mirjam Krikke, Wen Chai, Dylan Bok
 Analysis For Wind Turbines in the Netherlands
+the code was developed with the use of AI
 
 *Python Scripts*
 The functionality of the provided python scripts: 
@@ -17,7 +18,7 @@ Via ArcGIS buffering the original windturbines and clipping the measurements to 
 
 This repository contains a collection of Python scripts developed to analyze and process data from weather stations and the HARMONIE dataset. The analysis focuses on wind turbines' performance and energy production, incorporating clustering and machine learning techniques for enhanced insights.
 
-## **Data Analysis
+## **Data Analysis**
 
 ### **Weather Station Data Analysis**
 - **`WS_data_analysis.py`**: 
